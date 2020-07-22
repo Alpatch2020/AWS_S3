@@ -14,8 +14,7 @@ your bucket(this name is globally unique, hence, you can't use a name
 already used by another AWS user).
 
 ![A screenshot of a cell phone Description automatically
-generated](.//media_files/image1.PNG){width="6.5in"
-height="3.2402777777777776in"}
+generated](.//media_files/image1.PNG)
 
 In this demo, the region was chosen as US East-1. Click next, and in
 configure options pane, leave everything as is and click next. You will
@@ -43,42 +42,36 @@ Double click on your bucket's name, under the **Overview** tab, click
 **Upload**
 
 ![A screenshot of a cell phone Description automatically
-generated](.//media_files/image5.png){width="6.5in"
-height="1.9791666666666667in"}
+generated](.//media_files/image5.png)
 
 Then click add file and select the file from where it is located:
 
 ![A screenshot of a cell phone Description automatically
-generated](.//media_files/image6.PNG){width="6.5in"
-height="3.076388888888889in"}
+generated](.//media_files/image6.PNG)
 
 After uploading you have something similar to this.
 
 ![A screenshot of a cell phone Description automatically
-generated](.//media_files/image7.png){width="6.225in"
-height="1.9236111111111112in"}
+generated](.//media_files/image7.png)
 
 Click **Next**, this under **Set Permissions** select **Grant public
 access to this object(s)** from the **Manage public permissions** drop
 down menu.
 
 ![A screenshot of a cell phone Description automatically
-generated](.//media_files/image8.PNG){width="6.5in"
-height="3.136111111111111in"}
+generated](.//media_files/image8.PNG)
 
 Leave **Set Properties** unchanged, go to **Review** and upload. By
 clicking on the new object a menu similar to the one below will appear.
 You can copy the **OBJECT URL** from there and paste in a browser.
 
 ![A screenshot of a cell phone Description automatically
-generated](.//media_files/image9.PNG){width="5.229166666666667in"
-height="4.027777777777778in"}
+generated](.//media_files/image9.PNG)
 
 After which you obtain the following
 
 ![A screenshot of a social media post Description automatically
-generated](.//media_files/image10.png){width="6.5in"
-height="1.2638888888888888in"}
+generated](.//media_files/image10.png)
 
-Since, S3 is a paid service you might consider deleting your bucket
-after this to avoid losing credits unnecessarily.
+Since, S3 is a paid service you might consider **deleting** your bucket
+after this to avoid losing money unnecessarily, unless you really need it.
