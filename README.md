@@ -14,7 +14,7 @@ your bucket(this name is globally unique, hence, you can't use a name
 already used by another AWS user).
 
 ![A screenshot of a cell phone Description automatically
-generated](media/image1.PNG){width="6.5in"
+generated](media/ademo1.PNG){width="6.5in"
 height="3.2402777777777776in"}
 
 In this demo, the region was chosen as US East-1. Click next, and in
