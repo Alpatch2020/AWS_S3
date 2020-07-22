@@ -69,9 +69,7 @@ You can copy the **OBJECT URL** from there and paste in a browser.
 generated](.//media_files/image9.PNG)
 
 After which you obtain the following
-
 ![A screenshot of a social media post Description automatically
 generated](.//media_files/image10.png)
-
 Since, S3 is a paid service you might consider **deleting** your bucket
 after this to avoid losing money unnecessarily, unless you really need it.
