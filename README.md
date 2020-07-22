@@ -24,21 +24,18 @@ access and check the acknowledgment that comes with the warning message
 pop up.
 
 ![A screenshot of a cell phone Description automatically
-generated](.//media_files/image2.png){width="6.5in"
-height="3.247916666666667in"}
+generated](.//media_files/image2.png)
 
 Then you review and click create bucket and there you have your new
 bucket.
 
 ![A screenshot of a cell phone screen with text Description
-automatically generated](.//media_files/image3.PNG){width="6.5in"
-height="3.252083333333333in"}
+automatically generated](.//media_files/image3.PNG)
 
 Your result should look like the one below:
 
 ![A screenshot of a cell phone Description automatically
-generated](.//media_files/image4.PNG){width="6.5in"
-height="1.4319444444444445in"}
+generated](.//media_files/image4.PNG)
 
 **Uploading the static webpage**
 
