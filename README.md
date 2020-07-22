@@ -30,7 +30,7 @@ Then you review and click create bucket and there you have your new
 bucket.
 
 ![A screenshot of a cell phone screen with text Description
-automatically generated](media/image3.PNG){width="6.5in"
+automatically generated](./media/ademo3.PNG){width="6.5in"
 height="3.252083333333333in"}
 
 Your result should look like the one below:
